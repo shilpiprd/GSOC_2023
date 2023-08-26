@@ -5,11 +5,13 @@
 <br>
 **Organisation**: [DIPY](https://dipy.org/)
 <br>
-**Mentors**: Rafael Neto Henriques, Ariel Rokem, Shreyas Fadnavis
+**Mentors**: [Rafael Neto Henriques](https://github.com/RafaelNH), Ariel Rokem, Shreyas Fadnavis
+<br>
+**Final Work Report**: [Report](https://github.com/shilpiprd/GSOC_2023/blob/main/GSoC23_Final_Work_Report.md)
 <br>
 **Proposal**: [Shilpi Prasad - DIPY (GSoC 2023)](https://github.com/shilpiprd/GSOC_2023/blob/main/DIPY_%20Proposal.pdf)
 <br>
-**Link to my Blogs: [here](https://blogs.python-gsoc.org/en/shilpi06s-blog/)
+**Link to my Blogs**: [here](https://blogs.python-gsoc.org/en/shilpi06s-blog/)
 
 # Overview
 
